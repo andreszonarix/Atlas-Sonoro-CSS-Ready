@@ -1,27 +1,8 @@
 #Header {height:125px;}
 #Stickynote { background:#ff8441; height: 187px; width:187px; z-index:100; position:relative; top:21px}
-/*.bgtext { background: url(images/bg-text-amazonia.png) repeat-y top left;}*/
 #Left { min-height:100%;}
-#Search { background-color:#72210f; margin:30px 0 0 0;}
-
-/*Navigation*/
-.amazonia { background:url(../images/general/nav-amazonia.png)}
-.amazonia_sub { background-color:#b6bb6b}
-.costa { background:url(../images/general/nav-costa.png)}
-.costa_sub { background-color:#dd9d84}
-.sierra { background:url(../images/general/nav-sierra.png)}
-.sierra_sub { background-color:#7dafc4}
-.pasado { background:url(../images/general/nav-arqueologico.png)}
-.pasado_sub { background-color:#b8a58f}
-/*--------------------*/
-
-/*Subnavigation*/
-#Subnavigation {  }
-.sub_nav_box { width:160px; border:#6d3427 solid 1px; padding:3px; margin:0 3px; float:left}
-.sub_nav_text { background-color:#5f1c0c; width:160px; border:#6d3427 solid 1px; padding:3px; margin:0 3px; float:left; color:#e4a777}
-.sub_nav_text ul li { list-style:none; list-style-type:none; margin:0; padding:0;}
-.sub_nav_text a { display:block; width:100%; color:#FFFFFF; text-decoration:none;}
-.sub_nav_text a:hover {color:#FFFFFF; text-decoration:underline;}
-.sub_nav_text a:active {color:#FFFFFF;}
-.sub_nav_text a:visited {color:#ff8441;}
-/*-----------------*/
+#Inner { height: auto;}
+#Pic { height: 400px; margin:20px 0 0 0}
+#Pic img { margin:20px 0 0 60px}
+#Map { height: 300px; margin:90px 0 0 0}
+#Footer { height: 106px; }

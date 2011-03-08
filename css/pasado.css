@@ -9,18 +9,8 @@
 .pasado-header { background:url(../images/pasado/txt_header_pasado.gif)}
 #Main {position:relative; height:2035px; background:url(../images/pasado/bg-Main-pasado.png) repeat}
 .line {border-top:#733f30 solid 2px; height:2px; width:90%; position:relative; margin:0 auto; top:150px; }
-#Navigation { background:url(../images/pasado/bg-Navigation-pasado.png) repeat; margin-top:30px;}
-#Navigation ul{ margin:0; padding:10px 0 0 0}
-#Navigation li{ margin:0; list-style:none; height:15px; padding:5px 0 10px 45px; color:#72210f}
 .nav_pasado {background:url(../images/pasado/bg-Navigation-pasado.png) repeat;}
 
 #Content { height: auto; }
-/*#Content { background-color: #E4A777;; height: auto; }*/
-#Inner { height: auto;}
-#Pic { height: 400px; margin:20px 0 0 0}
-#Pic img { margin:20px 0 0 60px}
-#Map { height: 300px; margin:90px 0 0 0}
-#Footer { height: 106px; }
-
 div.content .span { background: none;}
 /* Pasado End */
