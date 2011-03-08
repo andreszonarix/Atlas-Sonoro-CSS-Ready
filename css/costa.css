@@ -7,20 +7,10 @@
 	background-position: 50% 160px;}
 	
 .costa-header { background:url(../images/costa/txt_header_costa.gif)}
-#Main {position:relative; height:2035px; background:url(../images/sierra/bg-Main-sierra.png) repeat}
+#Main {position:relative; height:2035px; background:url(../images/costa/bg-Main-costa.png) repeat}
 .line {border-top:#733f30 solid 2px; height:2px; width:90%; position:relative; margin:0 auto; top:150px; }
-#Navigation { background:url(../images/amazonia/bg-Navigation-amazonia.png) repeat; margin-top:30px;}
-#Navigation ul{ margin:0; padding:10px 0 0 0}
-#Navigation li{ margin:0; list-style:none; height:15px; padding:5px 0 10px 45px; color:#72210f}
-.nav_sierra {background:url(../images/sierra/bg-Navigation-sierra.png) repeat;}
+.nav_costa {background:url(../images/costa/bg-Navigation-costa.png) repeat;}
 
 #Content { height: auto; }
-/*#Content { background-color: #E4A777;; height: auto; }*/
-#Inner { height: auto;}
-#Pic { height: 400px; margin:20px 0 0 0}
-#Pic img { margin:20px 0 0 60px}
-#Map { height: 300px; margin:90px 0 0 0}
-#Footer { height: 106px; }
-
 div.content .span { background: none;}
 /* Costa End */
